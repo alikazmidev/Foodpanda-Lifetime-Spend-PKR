@@ -10,14 +10,14 @@ Track your Foodpanda spending effortlessly! This Tampermonkey userscript calcula
 
 ## 🚀 Installation
 1. Install **Tampermonkey** in your browser (Chrome, Firefox, Edge).  
-2. Click the button below or use Tampermonkey’s “Install from URL” and paste the raw GitHub URL:
+2. Click the button below or use Tampermonkey’s “Install from URL” and paste the correct raw URL:
 
-[![Install Foodpanda Spend Script](https://img.shields.io/badge/Install-Foodpanda%20Script-brightgreen?style=for-the-badge)](https://github.com/alikazmidev/Foodpanda-Lifetime-Spend-PKR/raw/main/foodpanda-order-calculator.user.js)
+[![Install Foodpanda Spend Script](https://img.shields.io/badge/Install-Foodpanda%20Script-brightgreen?style=for-the-badge)](https://github.com/alikazmidev/Foodpanda-Lifetime-Spend-PKR/raw/main/main/foodpanda-order-calculator.user.js)
 
-> **Tip:** Do **not** open the raw script directly in a browser tab. Use the button or install via Tampermonkey to avoid the intermediate page.
+> **Tip:** Do **not** open the raw script directly in the browser. Use the button or install via Tampermonkey to avoid the intermediate page.
 
 ## 📸 Preview
-*(Add a screenshot of the floating dashboard here)*
+![Floating Dashboard Preview](https://github.com/alikazmidev/Foodpanda-Lifetime-Spend-PKR/blob/main/assets/display.png)
 
 ## 👤 Author
 Created by **Ali Kazmi**  

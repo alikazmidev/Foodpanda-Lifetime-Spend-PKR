@@ -9,12 +9,15 @@ Track your Foodpanda spending effortlessly! This Tampermonkey userscript calcula
 - 🔄 **Auto-scroll** – loads all past orders automatically  
 
 ## 🚀 Installation
-1. Install **Tampermonkey** (Chrome, Firefox, Edge).  
+1. Install **Tampermonkey** in your browser (Chrome, Firefox, Edge).  
 2. Click the button below to install the script:
 
-[![Install Foodpanda Spend Script](https://img.shields.io/badge/Install-Foodpanda%20Script-brightgreen?style=for-the-badge)](https://github.com/alikazmidev/Foodpanda-Lifetime-Spend-PKR/raw/main/foodpanda-order-calculator.user.js)
+[![Install Foodpanda Spend Script](https://img.shields.io/badge/Install-Foodpanda%20Script-brightgreen?style=for-the-badge)](https://cdn.jsdelivr.net/gh/alikazmidev/Foodpanda-Lifetime-Spend-PKR/foodpanda-order-calculator.user.js)
 
-> **Tip:** If you see an intermediate page, Tampermonkey will handle it. Do **not** open the raw script directly in the browser tab — use the button or Tampermonkey’s “Install from URL”.
+> **Tip:** Do not open the raw script directly in the browser. Clicking the button will trigger Tampermonkey to handle the install automatically.
+
+## 📸 Preview
+*(Add a screenshot of the floating dashboard here)*
 
 ## 👤 Author
 Created by **Ali Kazmi**  

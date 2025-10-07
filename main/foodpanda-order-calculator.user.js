@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Foodpanda Order Calculator (UI Version)
+// @name         Foodpanda Lifetime Spend (UI Version)
 // @namespace    http://tampermonkey.net/
 // @version      2.2
 // @description  Calculate total spending on Foodpanda orders
